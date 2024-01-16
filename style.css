@@ -1,0 +1,11 @@
+*{
+        font-family: roboto, sans-serif;
+      }
+      .carousel-item img{
+        height: 600px;
+      }
+      @media (max-width: 720px) {
+        .carousel-item img{
+        height: 400px;
+      }
+      }
